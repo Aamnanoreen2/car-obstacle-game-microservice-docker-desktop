@@ -23,6 +23,7 @@ and play the game<br>
 further detail is mentioned in the description.docx along with project structure
 <br>
 ![image](https://github.com/user-attachments/assets/b69c8f2d-5ae1-4665-96d2-03ef34bd2a49)
+<br>
 
 ![image](https://github.com/user-attachments/assets/0d63a860-8b45-4a79-82d5-27f9a489a441)
 

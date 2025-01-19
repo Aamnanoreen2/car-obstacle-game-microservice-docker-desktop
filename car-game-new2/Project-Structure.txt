@@ -1,0 +1,27 @@
+CAR-GAME-NEW2/
+│
+├── backend/
+│   ├── app.py              # Main backend application
+│   ├── Dockerfile          # Dockerfile for backend
+│   ├── requirements.txt    # Python dependencies
+│   └── tests/              # Directory for backend unit tests
+│       └── test_app.py     # Example test file
+│
+├── db/
+│   ├── game_db.py          # Database operations script
+│   ├── init.sql            # SQL initialization script
+│   └── migrations/         # Directory for database migrations (if any)
+│
+├── frontend/
+│   ├── .dockerignore       # Docker ignore file
+│   ├── Dockerfile          # Dockerfile for frontend
+│   ├── index.html          # Main HTML file
+│   ├── style.css           # CSS for styles
+│   ├── game.js             # JavaScript for frontend logic
+│   └── assets/             # Directory for images, fonts, etc.
+│       ├── images/
+│       └── fonts/
+│
+├── docker-compose.yml       # Docker Compose configuration
+├── README.md                # Project description and instructions
+└── .gitignore               # Git ignore file
